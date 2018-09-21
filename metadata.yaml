@@ -1,0 +1,30 @@
+_repo: Legendary-Yorkshire_53617
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ross, Frederick
+    birthdate: 1816
+    deathdate: 1893
+    gutenberg_agent_id: '40674'
+    url: http://www.gutenberg.org/2009/agents/40674
+description: ''
+gutenberg_issued: '2016-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Legends -- England -- Yorkshire'
+- GITenberg
+tableOfContents: The enchanted cave -- The doomed city -- The "worm" of Nunnington
+  -- The devil's arrows -- The giant road-maker of Mulgrave -- The virgin's head of
+  Halifax -- The dead arm of St. Oswald the king -- The translation of St. Hilda --
+  A miracle of St. John -- The beatified Sisters of Beverley -- The dragon of Wantley
+  -- The miracles and ghost of Watton -- The murdered hermit of Eskdale -- The Calverley
+  ghost -- The bewitched house of Wakefield.
+title: Legendary Yorkshire
+url: http://www.gutenberg.org/ebooks/53617
